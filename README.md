@@ -1,9 +1,9 @@
 # To run on your machine
 
-Ensure that you have installed the required packages by running `npm install` in the project's root directory
-Also, create a .env.development file and key in the following information
-REACT_APP_OPENWEATHERMAP_API_URL=https://api.openweathermap.org
-REACT_APP_OPENWEATHERMAP_API_KEY={API_KEY}
+Ensure that you have installed the required packages by running `npm install` in the project's root directory \
+Also, create a '.env.development' file and key in the following information: \
+REACT_APP_OPENWEATHERMAP_API_URL=https://api.openweathermap.org \
+REACT_APP_OPENWEATHERMAP_API_KEY={API_KEY} \
 REACT_APP_BASEURI={uri of the webapp}
 
 # LIVE DEMO
