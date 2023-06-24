@@ -1,10 +1,13 @@
-
+import Main from "./pages/Main";
+import { ThemeProvider } from "./contexts/ThemeContext";
 
 function App() {
   return (
-    <div className="App">
-      
-    </div>
+    <ThemeProvider>
+      <div className="App" >
+        <Main />
+      </div>
+    </ThemeProvider>
   );
 }
 
